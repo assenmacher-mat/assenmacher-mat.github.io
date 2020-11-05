@@ -19,7 +19,7 @@ Department of Statistics, LMU Munich, Germany<br/>
 Research assistant (Statistical research; Teaching on B.Sc. and M.Sc. level)
 
 __01/2016 - 03/2017__<br/>
-Department of Statistics, LMU Munich, Germany<br/>
+Department of Statistics, StaBLab, LMU Munich, Germany<br/>
 Student assistant (Statistical Consulting; Teaching on B.Sc. level)
 
 __07/2014 - 04/2016__<br/>
