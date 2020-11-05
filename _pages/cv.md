@@ -32,9 +32,11 @@ Freelance
 __since 01/2020__<br/>
 Zentrum für Präklinische Forschung, Technical University of Munich, Germany<br/>
 Lecturer (Creating and Instructing basic and advanced courses (Statistics for veterinarians))
+
 __since 06/2019__<br/>
 Essential Data Science Training GmbH, Munich, Germany<br/>
 Trainer (Creating and Instructing courses for Natural Language Processing and Python)
+
 __since 06/2017__<br/>
 Berufsbildungswerk der Deutschen Versicherungswirtschaft, Munich, Germany<br/>
 Lecturer (Instructing summer courses for exam preparation (Statistics) on B.Sc. level)
