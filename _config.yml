@@ -22,13 +22,13 @@ url: https://assenmacher-mat.github.io
 twitter_username: assenmacherm
 github_username: assenmacher-mat
 linkedin_username: m-assenmacher
-#logo: "/images/ears.jpg"
+logo: "/images/assenmacher.jpg"
 search: true #, false (default)
 #logo: /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 #excerpt: "The Great Wall near Beijing."
 #header:
-#  overlay_image: /assets/images/changcheng.jpg
-#  overlay_filter: 0.15
+  overlay_image: /assets/images/sundown.jpg
+  overlay_filter: 0.15
 masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
 #atom_feed:
 #  path: # blank (default) uses feed.xml
