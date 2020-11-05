@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-title: "About Me"
+title: "About"
 header:
   overlay_image: /assets/images/sundown.jpg
   overlay_filter: 0.5
