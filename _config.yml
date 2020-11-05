@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
 lang: en-US
-title: "Matthias A&szlig;enmacher, M.Sc."
+title: "Matthias A&szlig;enmacher"
 masthead_title: "Matthias A&szlig;enmacher"
 description: "Personal homepage of Matthias A&szlig;enmacher"
 baseurl: # the optional subpath of your site, e.g. "/blog"
