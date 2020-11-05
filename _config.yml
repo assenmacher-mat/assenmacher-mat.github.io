@@ -23,7 +23,7 @@ twitter_username: assenmacherm
 github_username: assenmacher-mat
 linkedin_username: m-assenmacher
 logo: "/images/matthias.jpg"
-search: true #, false (default)
+# search: true #, false (default)
 #logo: /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 #excerpt: "The Great Wall near Beijing."
 header:
@@ -65,7 +65,7 @@ social:
 author: 
   name: "Matthias A&szlig;enmacher"
   avatar: /assets/images/matthias.jpg
-  bio: "blabla"
+  bio: "Statistician | Ph.D. candidate @LMU | NLP researcher & enthusiast"
   location: "Munich, Germany"
   links:
     - label: "Github"
