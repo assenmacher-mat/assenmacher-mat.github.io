@@ -1,1 +1,1 @@
-# Matthias Aßenmacher -- Research Assistant -- Ph.D. Candidate
+# Research Assistant -- Ph.D. Candidate
