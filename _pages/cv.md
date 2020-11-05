@@ -11,3 +11,50 @@ classes: wide
 author_profile: true  
 ---
 
+Professional Experience
+---------------
+
+__since 04/2017__<br/>
+Department of Statistics, LMU Munich, Germany<br/>
+Research assistant (Statistical research; Teaching on B.Sc. and M.Sc. level)
+
+__01/2016 - 03/2017__<br/>
+Department of Statistics, LMU Munich, Germany<br/>
+Student assistant (Statistical Consulting; Teaching on B.Sc. level)
+
+__07/2014 - 04/2016__<br/>
+Versicherungsmakler Dachau-Land GmbH, Wiedenzhausen, Germany<br/>
+Working student (Assistance in the day-to-day business)
+
+Freelance
+---------------
+
+__since 01/2020__<br/>
+Zentrum für Präklinische Forschung, Technical University of Munich, Germany<br/>
+Lecturer (Creating and Instructing basic and advanced courses (Statistics for veterinarians))
+__since 06/2019__<br/>
+Essential Data Science Training GmbH, Munich, Germany<br/>
+Trainer (Creating and Instructing courses for Natural Language Processing and Python)
+__since 06/2017__<br/>
+Berufsbildungswerk der Deutschen Versicherungswirtschaft, Munich, Germany<br/>
+Lecturer (Instructing summer courses for exam preparation (Statistics) on B.Sc. level)
+
+
+Education
+---------------
+
+__since 04/2017__<br/>
+LMU Munich, Germany<br/>
+Ph.D. candidate (Focus on _Natural Language Processing_)
+
+__2017__<br/>
+LMU Munich, Germany<br/>
+M.Sc. (Statistcs in Social and Economic Studies)
+
+__2014__<br/>
+LMU Munich, Germany<br/>
+B.Sc. (Economics)
+
+__2011__<br/>
+Josef-Effner-Gymnasium, Dachau, Germany<br/>
+Abitur (German High School Diploma)
