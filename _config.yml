@@ -43,3 +43,37 @@ algolia:
 google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
+  
+# Social Sharing
+twitter:
+  username: 
+facebook:
+  username:
+  app_id:
+  publisher:
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
+  links:
+    - "https://www.linkedin.com/in/m-assenmacher"
+    - "https://github.com/assenmacher-mat"
+  # An array of links to social media profiles
+
+# Site Author
+author: 
+  name: "atthias A&szlig;enmacher"
+  #avatar: /assets/images/ears.jpg
+  bio: "blabla"
+  location: "Munich, Germany"
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/assenmacher-mat"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/m-assenmacher/"
+    - label: "University"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.misoda.statistik.uni-muenchen.de/personen/mitarbeiter/assenmacher/index.html"
