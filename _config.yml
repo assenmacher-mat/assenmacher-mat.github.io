@@ -27,7 +27,7 @@ logo: "/images/matthias.jpg"
 #logo: /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 #excerpt: "The Great Wall near Beijing."
 header:
-  overlay_image: /assets/images/sundown.jpg
+  overlay_image: /assets/images/berge2.jpg
   overlay_filter: 0.15
 masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
 #atom_feed:
