@@ -5,5 +5,7 @@ main:
     url: /posts/
   - title: "Scientific Publications"
     url: /publications/
+  - title: "Further Projects"
+    url: /projects/
   - title: "Curriculum Vitae"
     url: /cv/
