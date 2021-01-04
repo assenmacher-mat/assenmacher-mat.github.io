@@ -16,7 +16,7 @@ Professional Experience
 
 __since 04/2017__<br/>
 Department of Statistics, LMU Munich, Germany<br/>
-Research assistant (Statistical research; Teaching on B.Sc. and M.Sc. level)
+Research assistant (Academic research; Teaching on B.Sc. and M.Sc. level; Supervising B.Sc. and M.Sc. theses.)
 
 __01/2016 - 03/2017__<br/>
 Department of Statistics, StaBLab, LMU Munich, Germany<br/>
