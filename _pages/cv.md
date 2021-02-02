@@ -26,7 +26,7 @@ __07/2014 - 04/2016__<br/>
 Versicherungsmakler Dachau-Land GmbH, Wiedenzhausen, Germany<br/>
 Working student (Assistance in the day-to-day business)
 
-Freelance
+Teaching
 ---------------
 
 __since 01/2020__<br/>
