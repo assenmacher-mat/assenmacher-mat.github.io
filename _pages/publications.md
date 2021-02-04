@@ -15,6 +15,7 @@ Publications
 ---------------
 
 <ul>
+  <li>Lebmeier, M., Hou, N., Spann, K., and <strong>A&szlig;enmacher, M.&nbsp;</strong> (2021). Creating a 'customer centricity graph' from unstructured customer feedback. <em>Applied Marketing Analytics., 6(3), 221-229</em>.</li>
   <li>Meidinger M., and <strong>A&szlig;enmacher, M.&nbsp;</strong> (2021). A new Benchmark for NLP in Social Sciences: Evaluating the usefulness of pre-trained language models for classifying open-ended survey responses. <em>Proceedings of the 13th International Conference on Agents and Artificial Intelligence (ICAART 2021). Vienna, Austria (Online), February 4-6, 2021, Vol. 2: 866-873</em>. </li>
   <li>Schiergens, T. S., Drefs, M., Dörsch, M., Kühn, F., Albertsmeier, M., Niess, H., Schoenberg, M. B., <strong>A&szlig;enmacher, M.&nbsp;</strong>, Küchenhoff, H., Thasler, W.E., Guba, M. O., Angele, M. K., Rentsch, M., Werner, J., and Andrassy, J. (2021). Prognostic Impact of Pedicle Clamping during Liver Resection for Colorectal Metastases. <em>Cancers., 13(1), 72</em>. <a href="https://doi.org/10.3390/cancers130100729" target="_blank"> doi.org/10.3390/cancers13010072</a>.</li>
   <li>Viellieber V. D., and<strong> A&szlig;enmacher, M.&nbsp;</strong>(2020). Pre-trained language models as knowledge bases for Automotive Complaint Analysis. <em>arXiv preprint arXiv:2012.02558.</em>&nbsp;<a href="https://arxiv.org/abs/2012.02558" target="_blank">https://arxiv.org/abs/2012.02558</a>.</li>
