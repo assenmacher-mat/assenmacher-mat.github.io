@@ -1,0 +1,11 @@
+---
+title: Publication published in Applied Marketing Analytics
+layout: single
+header:
+  overlay_image: /assets/images/berge2.jpg
+  overlay_filter: 0.15
+excerpt: "The outcome of a student consulting project was published!"
+---
+
+The outcome of a consulting project carried out in cooperation with [Insaas](https://insaas.ai/) and two very motivated students from LMU was published in the journal Applied Marketing Analytics. The title of the paper is "Creating a ‘customer centricity graph’ from unstructured customer feedback".  
+It is available at [https://www.misoda.statistik.uni-muenchen.de/forschung/lebmeier_et_al_2021.pdf](https://www.misoda.statistik.uni-muenchen.de/forschung/lebmeier_et_al_2021.pdf).
