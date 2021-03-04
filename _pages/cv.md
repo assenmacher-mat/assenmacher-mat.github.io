@@ -51,7 +51,7 @@ Ph.D. candidate (Focus on _Natural Language Processing_)
 
 __2017__<br/>
 LMU Munich, Germany<br/>
-M.Sc. (Statistcs in Social and Economic Studies)
+M.Sc. (Statistics in Social and Economic Studies)
 
 __2014__<br/>
 LMU Munich, Germany<br/>
