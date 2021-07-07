@@ -1,5 +1,5 @@
 ---
-title: Talk @ GDS
+title: Paper acceptance @ SwissText
 layout: single
 header:
   overlay_image: /assets/images/berge2.jpg
