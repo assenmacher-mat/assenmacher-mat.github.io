@@ -15,7 +15,20 @@ Publications
 ---------------
 
 <ul>
-  <li><strong> A&szlig;enmacher, M.</strong>, Corvonato, A., Heumann, C. (2021). Re-Evaluating GermEval17 Using German Pre-Trained Language Models. <em>arXiv preprint arXiv:2102.12330</em>. <a target="_blank" href="https://arxiv.org/abs/2102.12330">https://arxiv.org/abs/2102.12330</a>.</li>
+  <li>Lebmeier, E., <strong>A&szlig;enmacher, M.</strong>, Heumann, C. (2022). On the current state of reproducibility
+and reporting of uncertainty for Aspect-based Sentiment Analysis. <em>Accepted at: European
+Conference on Machine Learning and Principles and Practice of Knowledge Discovery in
+Databases (ECML PKDD), Grenoble, France, September 19-23, 2022</em>.</li>
+  <li><strong>A&szlig;enmacher, M.</strong>, Dietrich, M., Elmaklizi, A., Hemauer, E. M., Wagenknecht, N. (2022). Whitepaper: New Tools for Old Problems. <em>Zenodo</em>. <a target="_blank" href=https://doi.org/10.5281/zenodo.6606451>https://doi.org/10.5281/zenodo.6606451</a>.</li>
+  <li>Koch, P., <strong>A&szlig;enmacher, M.</strong>, Heumann, C. (2022). Pre-trained language models evaluating
+themselves - A comparative study. <em>Proceedings of the Third Workshop on Insights from
+Negative Results in NLP, Association for Computational Linguistics, Dublin, Ireland, May
+23-27, 2022</em>. <a target="_blank" href=https://aclanthology.org/2022.insights-1.25/>https://aclanthology.org/2022.insights-1.25/</a>.</li>
+  <li><strong>A&szlig;enmacher, M.</strong>, Schulze, P., Heumann, C. (2021). Benchmarking down-scaled (not so
+large) pre-trained language models. <em>Proceedings of the 17th Conference on Natural
+Language Processing (KONVENS 2021), Düsseldorf, Germany, September 6-9, 2021</em>.
+<a target="_blank" href=https://aclanthology.org/2021.konvens-1.2/>https://aclanthology.org/2021.konvens-1.2/</a>.</li>
+  <li><strong> A&szlig;enmacher, M.</strong>, Corvonato, A., Heumann, C. (2021). Re-Evaluating GermEval17 Using German Pre-Trained Language Models. <em>Proceedings of the Swiss Text Analytics Conference, Winterthur, Switzerland (Online), June 14-16, 2021</em>. <a target="_blank" href="http://ceur-ws.org/Vol-2957/paper1.pdf">http://ceur-ws.org/Vol-2957/paper1.pdf</a>.</li>
   <li>Lebmeier, M., Hou, N., Spann, K., and <strong>A&szlig;enmacher, M.&nbsp;</strong> (2021). Creating a 'customer centricity graph' from unstructured customer feedback. <em>Applied Marketing Analytics, 6(3), 221-229</em>. <a href="https://www.misoda.statistik.uni-muenchen.de/forschung/lebmeier_et_al_2021.pdf" target="_blank"> https://www.misoda.statistik.uni-muenchen.de/forschung/lebmeier_et_al_2021.pdf</a>.</li>
   <li>Meidinger M., and <strong>A&szlig;enmacher, M.&nbsp;</strong> (2021). A new Benchmark for NLP in Social Sciences: Evaluating the usefulness of pre-trained language models for classifying open-ended survey responses. <em>Proceedings of the 13th International Conference on Agents and Artificial Intelligence (ICAART 2021). Vienna, Austria (Online), February 4-6, 2021, Vol. 2: 866-873</em>. <a href="https://doi.org/10.5220/0010255108660873" target="_blank"> doi.org/10.5220/0010255108660873</a>. </li>
   <li>Schiergens, T. S., Drefs, M., Dörsch, M., Kühn, F., Albertsmeier, M., Niess, H., Schoenberg, M. B., <strong>A&szlig;enmacher, M.&nbsp;</strong>, Küchenhoff, H., Thasler, W.E., Guba, M. O., Angele, M. K., Rentsch, M., Werner, J., and Andrassy, J. (2021). Prognostic Impact of Pedicle Clamping during Liver Resection for Colorectal Metastases. <em>Cancers, 13(1), 72</em>. <a href="https://doi.org/10.3390/cancers130100729" target="_blank"> doi.org/10.3390/cancers13010072</a>.</li>
