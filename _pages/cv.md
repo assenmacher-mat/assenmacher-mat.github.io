@@ -14,12 +14,16 @@ author_profile: true
 Professional Experience
 ---------------
 
-__since 04/2017__<br/>
-Department of Statistics, LMU Munich, Germany<br/>
+__since 02/2022__<br/>
+Chair "Statistical Learning and Data Science", Department of Statistics, LMU Munich, Germany<br/>
+Postdoctoral Researcher (BERD@NFDI,;Academic research; Teaching on B.Sc. and M.Sc. level; Supervising B.Sc. and M.Sc. theses.)
+
+__04/2017 - 01/2022__<br/>
+Working group "Methods for Missing Data, Model Selection and Model Averaging", Department of Statistics, LMU Munich, Germany<br/>
 Research assistant (Academic research; Teaching on B.Sc. and M.Sc. level; Supervising B.Sc. and M.Sc. theses.)
 
 __01/2016 - 03/2017__<br/>
-Department of Statistics, StaBLab, LMU Munich, Germany<br/>
+StaBLab, Department of Statistics, LMU Munich, Germany<br/>
 Student assistant (Statistical Consulting; Teaching on B.Sc. level)
 
 __07/2014 - 04/2016__<br/>
@@ -41,13 +45,17 @@ __since 06/2017__<br/>
 Berufsbildungswerk der Deutschen Versicherungswirtschaft, Munich, Germany<br/>
 Lecturer (Instructing summer courses for exam preparation (Statistics) on B.Sc. level)
 
+__03/2021 - 02/2022__<br/>
+Hochschule Fresenius - University of Applied Sciences, Munich, Germany<br/>
+External Lecturer for "Inference Statistics"
+
 
 Education
 ---------------
 
-__since 04/2017__<br/>
+__2021__<br/>
 LMU Munich, Germany<br/>
-Ph.D. candidate (Focus on _Natural Language Processing_)
+Dr. rer. nat. (Statistics, Focus on _Natural Language Processing_)
 
 __2017__<br/>
 LMU Munich, Germany<br/>
