@@ -16,7 +16,7 @@ Professional Experience
 
 __since 02/2022__<br/>
 Chair "Statistical Learning and Data Science", Department of Statistics, LMU Munich, Germany<br/>
-Postdoctoral Researcher (BERD@NFDI,;Academic research; Teaching on B.Sc. and M.Sc. level; Supervising B.Sc. and M.Sc. theses.)
+Postdoctoral Researcher (BERD@NFDI; Academic research; Teaching on B.Sc. and M.Sc. level; Supervising B.Sc. and M.Sc. theses.)
 
 __04/2017 - 01/2022__<br/>
 Working group "Methods for Missing Data, Model Selection and Model Averaging", Department of Statistics, LMU Munich, Germany<br/>
